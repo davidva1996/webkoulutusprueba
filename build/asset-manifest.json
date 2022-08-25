@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c98243f4.chunk.css",
+    "main.js": "/static/js/main.af1608fd.chunk.js",
+    "main.js.map": "/static/js/main.af1608fd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0747188c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0747188c.js.map",
+    "static/css/2.77b31a73.chunk.css": "/static/css/2.77b31a73.chunk.css",
+    "static/js/2.540c0f32.chunk.js": "/static/js/2.540c0f32.chunk.js",
+    "static/js/2.540c0f32.chunk.js.map": "/static/js/2.540c0f32.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.77b31a73.chunk.css.map": "/static/css/2.77b31a73.chunk.css.map",
+    "static/css/main.c98243f4.chunk.css.map": "/static/css/main.c98243f4.chunk.css.map",
+    "static/js/2.540c0f32.chunk.js.LICENSE.txt": "/static/js/2.540c0f32.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Montserrat-Medium.4b4a4b36.otf",
+    "static/media/email.3171ab42.svg": "/static/media/email.3171ab42.svg",
+    "static/media/facebook.998f5a00.svg": "/static/media/facebook.998f5a00.svg",
+    "static/media/instagram.2a8ce24b.svg": "/static/media/instagram.2a8ce24b.svg",
+    "static/media/linkedin.65feddfd.svg": "/static/media/linkedin.65feddfd.svg",
+    "static/media/logo-koulutus.399f7fdb.svg": "/static/media/logo-koulutus.399f7fdb.svg",
+    "static/media/page-1.ad86f12f.svg": "/static/media/page-1.ad86f12f.svg",
+    "static/media/twitter.f15ec7b9.svg": "/static/media/twitter.f15ec7b9.svg",
+    "static/media/youtube.2b0bd3b0.svg": "/static/media/youtube.2b0bd3b0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0747188c.js",
+    "static/css/2.77b31a73.chunk.css",
+    "static/js/2.540c0f32.chunk.js",
+    "static/css/main.c98243f4.chunk.css",
+    "static/js/main.af1608fd.chunk.js"
+  ]
+}

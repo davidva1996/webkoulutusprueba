@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="page-1.svg"
+   x="0px"
+   y="0px"
+   viewBox="0 0 793.70078 1122.5197"
+   xml:space="preserve"
+   width="793.70081"
+   height="1122.5197"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs70">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</defs>
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#FFBA14;}
+	.st1{fill:#381BFF;}
+	.st2{opacity:0.9;fill:#381BFF;}
+	.st3{filter:url(#filter1313);}
+	.st4{fill:none;stroke:#000000;stroke-width:38.8281;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:#FFFFFF;}
+	.st6{font-family:'Montserrat-Regular';}
+	.st7{font-size:159.9999px;}
+	.st8{font-family:'Montserrat-ExtraBold';}
+	.st9{font-size:280.0001px;}
+	.st10{font-family:'Montserrat-Medium';}
+	.st11{font-size:119.9999px;}
+</style>
+<filter
+   id="filter1313"
+   inkscape:label="Metallized Paint"
+   inkscape:menu="Materials"
+   inkscape:menu-tooltip="Metallized effect with a soft lighting, slightly translucent at the edges"
+   style="color-interpolation-filters:sRGB"
+   x="-0.017255394"
+   y="-0.0084569808"
+   width="1.0345109"
+   height="1.016914">
+	<feGaussianBlur
+   id="feGaussianBlur1287"
+   result="result1"
+   stdDeviation="1" />
+	<feComposite
+   id="feComposite1289"
+   in="result1"
+   in2="result1"
+   operator="in"
+   result="result4" />
+	<feBlend
+   id="feBlend1291"
+   in="result1"
+   in2="result4"
+   mode="screen"
+   result="result5" />
+	<feGaussianBlur
+   id="feGaussianBlur1293"
+   in="result5"
+   result="result6"
+   stdDeviation="8" />
+	<feComposite
+   id="feComposite1295"
+   in="result6"
+   in2="result5"
+   operator="atop"
+   result="result8" />
+	<feComposite
+   id="feComposite1297"
+   in="result6"
+   in2="result8"
+   operator="in"
+   result="fbSourceGraphic" />
+	<feGaussianBlur
+   id="feGaussianBlur1299"
+   in="fbSourceGraphic"
+   result="result0"
+   stdDeviation="2.5" />
+	
+		<feSpecularLighting
+   id="feSpecularLighting1303"
+   in="result0"
+   lighting-color="#ffffff"
+   result="result1"
+   specularConstant="1.5"
+   specularExponent="45"
+   surfaceScale="1">
+		<fePointLight
+   id="fePointLight1301"
+   x="-6000"
+   y="-9000"
+   z="21000" />
+	</feSpecularLighting>
+	<feComposite
+   id="feComposite1305"
+   in="result1"
+   in2="fbSourceGraphic"
+   operator="in"
+   result="result2" />
+	<feComposite
+   id="feComposite1307"
+   in="fbSourceGraphic"
+   in2="result2"
+   k2="1"
+   k3="1"
+   operator="arithmetic"
+   result="result4"
+   k1="0"
+   k4="0">
+		</feComposite>
+	<feComposite
+   id="feComposite1309"
+   in2="result4"
+   operator="in"
+   result="result91" />
+	<feBlend
+   id="feBlend1311"
+   in2="result91"
+   mode="multiply" />
+</filter>
+<sodipodi:namedview
+   bordercolor="#666666"
+   borderopacity="1.0"
+   id="base"
+   inkscape:current-layer="layer2"
+   inkscape:cx="891"
+   inkscape:cy="393"
+   inkscape:document-rotation="0"
+   inkscape:document-units="px"
+   inkscape:guide-bbox="true"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:showpageshadow="false"
+   inkscape:snap-bbox="true"
+   inkscape:window-height="745"
+   inkscape:window-maximized="1"
+   inkscape:window-width="1366"
+   inkscape:window-x="-8"
+   inkscape:window-y="-8"
+   inkscape:zoom="0.5"
+   pagecolor="#ffffff"
+   showgrid="false"
+   showguides="true"
+   units="cm"
+   inkscape:pagecheckerboard="0"
+   height="1122.5196px">
+	<sodipodi:guide
+   id="guide1190"
+   orientation="0,-1"
+   position="1001.9814,-56.603096" />
+</sodipodi:namedview>
+<g
+   id="layer2"
+   inkscape:groupmode="layer"
+   inkscape:label="fondo">
+	
+		
+	
+		
+	
+		
+	
+		
+	
+	
+		
+</g>
+<g
+   id="layer1"
+   inkscape:groupmode="layer"
+   inkscape:label="borde">
+	
+	<g
+   id="g1352"
+   transform="matrix(8.7500972,0,0,8.7500972,-5963.6745,-5831.188)"
+   style="opacity:0.507;mix-blend-mode:normal"><g
+     id="g1944-1"
+     transform="matrix(0.06818199,0,0,-0.06997845,716.79345,483.43826)"><path
+       id="path1946-5"
+       class="st0"
+       d="m 865.5,-3544.3 c -3.1,0 -5.9,-1.4 -7.9,-3.7 -57.4,-67.5 -143,-110.3 -238.5,-110.3 -95.6,0 -181.1,42.8 -238.6,110.3 -2,2.3 -4.8,3.7 -7.9,3.7 H 268.7 c -8.1,0 -13.1,-8.9 -9,-15.9 73.2,-122 206.7,-203.6 359.3,-203.6 152.6,0 286.1,81.6 359.3,203.6 4.2,7 -0.8,15.9 -9,15.9 z" /></g><g
+     id="g1948-4"
+     transform="matrix(0.06818199,0,0,-0.06997845,711.59084,478.52384)"><path
+       id="path1950-5"
+       class="st0"
+       d="m 725.5,-3415.5 v 144.9 c 0,16.4 8.9,25.3 25.3,25.3 H 799 c 16.4,0 25.3,-8.9 25.3,-25.3 V -3422 c 0,-38.2 23.8,-63.5 58.6,-63.5 35.2,0 58.6,25.3 58.6,63.5 v 151.4 c 0,16.4 8.9,25.3 25.3,25.3 h 46.7 c 16.9,0 25.8,-8.9 25.8,-25.3 v -144.9 c 0,-95.3 -62.5,-158.3 -156.4,-158.3 -94.3,0 -157.4,63 -157.4,158.3" /></g><g
+     id="g1972-1"
+     transform="matrix(0.06818199,0,0,-0.06997845,706.64245,480.2171)"><path
+       id="path1974-5"
+       class="st0"
+       d="m 592.4,-3459.9 c -42.8,0 -77.5,34.7 -77.5,77.5 0,42.8 34.7,77.5 77.5,77.5 42.8,0 77.5,-34.7 77.5,-77.5 0,-42.8 -34.7,-77.5 -77.5,-77.5 m 0,245.2 c -92.6,0 -167.7,-75.1 -167.7,-167.7 0,-92.6 75.1,-167.7 167.7,-167.7 92.6,0 167.7,75.1 167.7,167.7 0,92.6 -75.1,167.7 -167.7,167.7" /></g></g>
+</g>
+<g
+   id="layer5"
+   inkscape:groupmode="layer"
+   inkscape:label="texto"
+   sodipodi:insensitive="true">
+	<text
+   transform="translate(223.8105,4123.916)"
+   class="st5 st6 st7"
+   id="text57">El mejor negocio es</text>
+	<text
+   transform="translate(228.9307,4319.9814)"
+   class="st5 st6 st7"
+   id="text59">invertir en tu negocio</text>
+	<text
+   transform="translate(233.8105,3601.5791)"
+   class="st5 st8 st9"
+   id="text61">CRECEMOS</text>
+	<text
+   transform="translate(248.9307,3875.8564)"
+   class="st5 st8 st9"
+   id="text63">JUNTOS</text>
+	<path
+   id="path2"
+   class="st5"
+   d="m 1864.1,5324.6 c -15.9,-15.9 -37.1,-24.7 -59.6,-24.7 -46.5,0 -84.3,37.8 -84.3,84.3 0,14.8 3.9,29.3 11.2,42.1 l -12,43.7 44.7,-11.7 c 12.3,6.7 26.2,10.3 40.3,10.3 v 0 c 46.4,0 85.1,-37.8 85.1,-84.3 0.1,-22.6 -9.5,-43.8 -25.4,-59.7 z m -59.6,129.6 c -12.6,0 -24.9,-3.4 -35.7,-9.8 l -2.5,-1.5 -26.5,6.9 7.1,-25.9 -1.7,-2.7 c -7,-11.2 -10.7,-24 -10.7,-37.3 0,-38.6 31.4,-70 70.1,-70 18.7,0 36.3,7.3 49.5,20.5 13.2,13.2 21.3,30.8 21.3,49.5 -0.1,38.9 -32.3,70.3 -70.9,70.3 z m 38.4,-52.4 c -2.1,-1.1 -12.5,-6.1 -14.4,-6.8 -1.9,-0.7 -3.3,-1.1 -4.7,1.1 -1.4,2.1 -5.4,6.8 -6.7,8.3 -1.2,1.4 -2.5,1.6 -4.6,0.5 -12.4,-6.2 -20.5,-11 -28.7,-25.1 -2.2,-3.7 2.2,-3.5 6.2,-11.5 0.7,-1.4 0.3,-2.6 -0.2,-3.7 -0.5,-1.1 -4.7,-11.4 -6.5,-15.6 -1.7,-4.1 -3.5,-3.5 -4.7,-3.6 -1.2,-0.1 -2.6,-0.1 -4,-0.1 -1.4,0 -3.7,0.5 -5.6,2.6 -1.9,2.1 -7.4,7.2 -7.4,17.6 0,10.4 7.6,20.4 8.6,21.8 1.1,1.4 14.8,22.7 36,31.8 13.4,5.8 18.6,6.3 25.3,5.3 4.1,-0.6 12.5,-5.1 14.2,-10 1.7,-4.9 1.7,-9.1 1.2,-10 -0.5,-1.1 -1.9,-1.6 -4,-2.6 z" />
+	<text
+   transform="translate(1945.1855,5441.0596)"
+   class="st5 st10 st11"
+   id="text66">313-5906515</text>
+</g>
+</svg>
